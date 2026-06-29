@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dynamsoft_barcode_reader_bundle"
-version = "11.6.1000"
+version = "11.4.3000"
 description = "Dynamsoft Barcode Reader SDK for Python"
 readme = { file = "README.rst", content-type = "text/x-rst" } 
 

@@ -38,7 +38,7 @@ which is newly established to aggregate the features of functional products powe
 Version
 -------
 
--  11.6.1000
+-  11.4.3000
 
 Supported Platforms
 -------------------
